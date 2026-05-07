@@ -27,3 +27,4 @@ I work at the intersection of product thinking and AI engineering: shaping what 
 ## Reach me
 
 [LinkedIn](https://www.linkedin.com/in/per-paulsen/) — primary channel for opportunities and connections.
+
