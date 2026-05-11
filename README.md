@@ -14,6 +14,7 @@ I work at the intersection of product thinking and AI engineering: shaping what 
 | Project | What it shows |
 |---|---|
 | **[Retail Customer Analysis](https://github.com/Per-Paulsen/retail-customer-analysis)** *(showcase)* | End-to-end retail analytics in R + Python: market basket, RFM, CLV, survival, forecasting, embeddings, causal uplift. [Live site](https://per-paulsen.github.io/retail-customer-analysis/). |
+| **[Reap](https://reap.zapier.app/)** *(showcase)* | Instant payout service for private sellers on second-hand platforms (e.g. Vinted). End-to-end product design. Stack: `Figma`, `Zapier`. |
 | **[Procurement Auction](https://github.com/Per-Paulsen/procurement-auction-archive)** *(archived)* | Smart-contract prototype of a four-stage reverse procurement auction on the blockchain. Stack: `Solidity`. [Try in Remix](https://remix.ethereum.org/?#url=https://github.com/Per-Paulsen/procurement-auction-archive/blob/main/contracts/procurement_clean_v2.sol). |
 | **[Send-2-Session](https://github.com/Per-Paulsen/send-2-session-archive)** *(archived)* | A no-code platform for orchestrating user-session flows across providers (Stripe, Mailchimp, Zapier). React + Firebase. |
 | **[GombaZ](https://github.com/Per-Paulsen/gombaz-archive)** *(archived)* | ML-powered service-orchestration platform learning *when* to fire each API call from observed data instead of running on a fixed schedule. |
