@@ -22,6 +22,10 @@ I work at the intersection of product thinking and AI engineering: shaping what 
 
 `TypeScript` · `Next.js` · `React` · `Python` · `R` · `Solidity` · `PostgreSQL` · `Prisma` · `Tailwind` · `LLM tooling`
 
+## CV
+
+[Per Paulsen CV](https://github.com/Per-Paulsen/cv): Markdown source and print-ready PDF.
+
 ## Reach me
 
 [LinkedIn](https://www.linkedin.com/in/per-paulsen/) is my primary channel for opportunities and connections.
